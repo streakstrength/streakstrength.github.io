@@ -5,7 +5,9 @@ A website for professional teaching portfolio and reflection.
 
 Structure: 
 +-- index.html - initiates site
+
 +-- \_config.yml - contains information e.g. name, markdown language, permalink of posts
+
 +-- README.md (this doc)
 +-- .gitignore - ignores \_site directory that Jekyll automatically creates for each commit
 +-- css
