@@ -24,6 +24,11 @@ h1 {
     font-size: 3em;
     font-family: 'Fira Sans', sans-serif;
 }
+h2 {
+    font-size: 2em;
+    font-family: 'Fira Sans', sans-serif;
+    font-style: italic;
+}
 p {
     font-size: 1.2em;
     line-height: 1.2em;
