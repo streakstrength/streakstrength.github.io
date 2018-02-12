@@ -3,7 +3,7 @@ body {
     width: 70%;
 }
 nav ul, footer ul {
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
     padding: 0px;
     list-style: none;
     font-weight: bold;
@@ -21,11 +21,11 @@ a:hover {
 }
 h1 {
     font-size: 3em;
-    font-family: 'Roboto', sans-serif;
+    font-family: 'Fira Sans', sans-serif;
 }
 p {
-    font-size: 1.5em;
-    line-height: 1.4em;
+    font-size: 1.2em;
+    line-height: 1.2em;
     font-family: 'Roboto', sans-serif;
     color: #333;
 }
