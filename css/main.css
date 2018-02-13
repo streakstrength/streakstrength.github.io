@@ -17,8 +17,16 @@ a {
     color: #999;
 }
 a:hover {
-    background-color: #97BF9B;
-    color: #f5f5f5;
+    background-color: #009966;
+    color: #ffffff;
+}
+::-moz-selection {  /*Code for Firefox */
+    background-color: #009966;
+    color: #ffffff;
+}
+::selection {
+    color: #ffffff;
+    background: #009966;
 }
 h1 {
     font-size: 3em;
