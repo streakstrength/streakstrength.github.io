@@ -5,4 +5,5 @@ date: 2018-02-13
 tags: books
 ---
 Just checking out how this post works for now.
-{% include image name="epic_classroom.jpg" caption="Epic Classroom (Trevor Muir)" %} 
+
+![Epic Classroom (Trevor Muir]({{ "/assets/epic_classroom.jpg" | absolute_url }})
