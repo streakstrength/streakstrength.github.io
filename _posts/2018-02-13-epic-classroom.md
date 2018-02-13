@@ -22,7 +22,7 @@ Muir frames "epic learning" (26) through the five elements which make up a story
 ### Theme (key concepts) 
 The central idea that links all story components together. Muir sees a convergence between "theme" and what is traditionally labelled in syllabus documents as "key concepts". Just as themes run through all parts of one coherent story, he suggests that teachers should see how their planned activities bring out the theme. For instance, he cites the example of "modernity" as a theme in the US Common Core History syllabus. Whether the lesson involves writing an essay on lifestyle and cultural changes during the Industrial Revolution, or interviewing elderly folk on the technological changes in their lifetime, it should all relate back to the central theme in a way that is obvious to students. 
 
-Applied to Geography teaching: 
+**Applied to Geography teaching:**
 > The Singapore Secondary Geography syllabus distinguishes between **key geographical concepts** (organizing concepts such as *place*, *space* and *scale*) and **content concepts** (to do with understanding spatial phenomena and processes, like *beach* and *ecosystem*). For a coherent (and yet distinctive) narrative when covering different units of learning in geography, I probably would have to tap on both a key geographical concept *and* and content concept. E.g., "spaces of development" or "scales of natural hazards". 
 
 ### Plot (activities)
@@ -33,29 +33,29 @@ In the same way plots have an exposition, conflict and resolution, so also shoul
 ### Conflict (success criteria / deliverables)
 The main issue or problem that requires action from the hero (students). Muir is a big advocate of "show, not tell", and so talks about exposing students to real-world people and problems, and getting students to generate the "conflict" for themselves. He does so by inviting community partners to show the real-world relevance of the theme (concept) he is teaching. For example, through a local social work agency, he invited a Rwandan refugee to share her experiences adapting to life in the US, to teach the concept of modernity. By comparing her life story with their own, students could see the possible problems modernity might pose for certain groups of people, and independently generated ideas on the specific problems posed by modernity and ways to solve them. 
 
-Applied to Geography teaching: 
+**Applied to Geography teaching:**
 > In the Singapore Secondary Geography syllabus, students investigate geographical issues through **key questions** e.g. "Is tourism the way to go?" This seems like a natural fit for the "conflict" that can power a story, but we could question the extent to which students can "own" the conflict if it was provided to them in the first place. One way to promote student ownership is to get students to refine the key questions in terms of case studies that they select themselves, e.g. "Is tourism the way to go in Country XYZ?" 
 
 ### Characters (role of students)
 The people (or animals/objects) that take part in a story. Importantly, in an epic, the characters' thoughts, feelings and actions all have a bearing on the plot and the conflict. In the same way, students should feel that their input is valuable and changes the outcome of the lesson or unit of work, *and* the larger community impacted by their learning, Muir argues. In the example of the Rwandan refugee project, when students felt that the activities in class helped them create guidebooks, videos and resources for the refugees to better orientate themselves to life in the US, they became more interested in the learning.
 
-Applied to Geography teaching: 
+**Applied to Geography teaching:**
 > In Singapore, every Secondary student is expected to be involved in a Values-in-Action (VIA) project where they enact civic responsibility and do their part to improve the community. The link between VIA projects and geographical teaching and learning, however, hasn't really been explored yet. What if the fieldwork that students conduct - already a chance for them to engage with the community - was harnessed as a way of contributing to the community? E.g. While investigating the water quality of a local reservoir, students then become passionate about campaigning against litter in parks and thus take that as their VIA project? This could be an idea to pursue in a class where students are all taking Geography as a subject - for instance, in a Pure Geography class, or in a Lower Secondary class (at the right time).  
 
 ### Setting (classroom design)
 The time and place the story occurs in. Though Muir only talks briefly about classroom design principles, he argues that classrooms can transform into alternative settings (in his case, a social work agency working with refugees in the US) in order to facilitate students' role in the story. Each "story" or unit of learning that takes place may require a re-design of the classroom. 
 
-Applied to Geography teaching: 
+**Applied to Geography teaching:**
 > This could be a chance to show the applicability of geography as a disciplinary lens for different occupations in society, e.g. policymaking vs. NGOs vs. town planning etc. With different units of learning, classrooms could transform into different settings to reflect the *real-life jobs* of geographers. 
 
 ## But... can it apply to my classroom? 
 I've listed a variety of ways in which Muir's idea of "epic learning" might apply to the Singapore Secondary Geography context. However, Muir's "epic learning" ultimately hinges on the **project-based learning (PBL) classroom**. The enactment of "epic classrooms" in its entirety thus hinges on a few key premises: 
 
-1. PBL is desirable in all learning situations and for all units of learning.
+**1. PBL is desirable in all learning situations and for all units of learning.**
 
 Research has shown that PBL is only effective if students already have a good grasp of how to define a realistic problem, work together collaboratively and evaluate possible solutions to address a given problem. It is difficult to make such an assumption at secondary level as PBL is not directly espoused in the syllabus until JC. 
 
-2. Teachers have flexibility in enacting PBL in their classrooms.
+**2. Teachers have flexibility in enacting PBL in their classrooms.**
 
 Muir talks about students being involved in generating the "conflict" for their learning, but this could potentially generate uneven learning outcomes across classes within a school (and at larger levels, between schools). This poses a problem for assessment in particular. Given the assessment-driven learning culture in Singapore, and the importance given to standardized national examinations, teachers may not have the flexibility Muir assumes - or the buy-in from students, even if they had such flexibility. 
 
