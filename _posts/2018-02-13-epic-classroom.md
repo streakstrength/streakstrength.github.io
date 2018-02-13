@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Epic Classroom: The Book Review"
+title: "The Epic Classroom: Book Review"
 date: 2018-02-13
 tags: books
 ---
-The NIE library always puts out interesting books on the shelves and [Epic Classroom by Trevor Muir](https://www.goodreads.com/book/show/35560006-the-epic-classroom) caught my eye last week. 
+The NIE library always puts out interesting books on the shelves and [The Epic Classroom by Trevor Muir](https://www.goodreads.com/book/show/35560006-the-epic-classroom) caught my eye last week. 
 
 ![Epic Classroom (Trevor Muir)]({{ "_includes/assets/epic_classroom.jpg" | absolute_url }})
 
