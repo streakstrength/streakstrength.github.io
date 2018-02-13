@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Teacher as Mirror"
-date: 2018-02-11
+date: 2018-02-08
 tags: philo
 ---
 
