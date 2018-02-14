@@ -6,7 +6,7 @@ tags: books
 ---
 The NIE library always puts out interesting books on the browsing shelves and *The Epic Classroom: How to Boost Engagement, Make Learning Memorable, and Transform Lives* by Trevor Muir caught my eye last week. 
 
-![Epic Classroom by Trevor Muir]({{site.url}}/_includes/assets/epic_classroom.jpg)
+![Epic Classroom by Trevor Muir]({{site.url}}/assets/epic_classroom.jpg)
 
 The premise of [the book](https://www.goodreads.com/book/show/35560006-the-epic-classroom) is simple: **narratives** should act as metaphors for us to design curriculum, units of learning, and individual lessons to boost student engagement. Specifically, **epic narratives** - narratives centered around a hero and a spectacular conflict - allow students to take charge of their own learning as they feel that the tasks they do are vested with a special purpose beyond the classroom. Muir backs his argument with the science of **neural coupling**, which is the phenomenon where the listener of a story has his/her brains activated in the same regions as the storyteller. This explains why we feel so much for stories, and also why designing learning with the affective dimension in mind is so important for students to be intrinsically motivated. 
 
