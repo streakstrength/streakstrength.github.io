@@ -2,3 +2,4 @@ name: Sarah Tan Ruiqi
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
 url: "http://streakstrength.github.io"
+baseurl: "http://streakstrength.github.io"
