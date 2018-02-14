@@ -12,7 +12,7 @@ The premise of [the book](https://www.goodreads.com/book/show/35560006-the-epic-
 
 ## tl;dr:
 * **Readability**: &#9733;&#9733;&#9733;&#9733;&#9734; A quick and pleasant read (~1.5h, scanning), though some parts may be a bit rambly.
-* **Usefulness for teaching**: &#9733;&#9733;&#9733;&#9733;&#9734; Useful to reframe our planning of T&L around students' and their affective experiences, although some ideas have to be heavily adapted depending on your classroom context. 
+* **Usefulness for teaching**: &#9733;&#9733;&#9733;&#9733;&#9734; Useful to reframe our planning of T&L around students' affective experiences, although some ideas have to be heavily adapted depending on your classroom context. 
 * **Applicability to SG**: &#9733;&#9733;&#9734;&#9734;&#9734; Makes some assumptions about the pedagogy we should use (problem-based learning). 
 
 ## How this might change teaching and learning
@@ -34,7 +34,7 @@ In the same way plots have an exposition, conflict and resolution, so also shoul
 The main issue or problem that requires action from the hero (students). Muir is a big advocate of "show, not tell", and so talks about exposing students to real-world people and problems, and getting students to generate the "conflict" for themselves. He does so by inviting community partners to show the real-world relevance of the theme (concept) he is teaching. For example, through a local social work agency, he invited a Rwandan refugee to share her experiences adapting to life in the US, to teach the concept of modernity. By comparing her life story with their own, students could see the possible problems modernity might pose for certain groups of people, and independently generated ideas on the specific problems posed by modernity and ways to solve them. 
 
 **Applied to Geography teaching:**
-> In the Singapore Secondary Geography syllabus, students investigate geographical issues through **key questions** e.g. "Is tourism the way to go?" This seems like a natural fit for the "conflict" that can power a story, but we could question the extent to which students can "own" the conflict if it was provided to them in the first place. One way to promote student ownership is to get students to refine the key questions in terms of case studies that they select themselves, e.g. "Is tourism the way to go in Country XYZ?" 
+> In the Singapore Secondary Geography syllabus, students investigate geographical issues through **key questions** e.g. "Is tourism the way to go?" This seems like a natural fit for the "conflict" that can power a story, but we could question the extent to which students can "own" the conflict if it was provided to them in the first place. One way to promote student ownership is to get students to refine the key questions in terms of case studies that they select themselves, e.g. "Is tourism the way to go *in Country XYZ*?" 
 
 ### Characters (role of students)
 The people (or animals/objects) that take part in a story. Importantly, in an epic, the characters' thoughts, feelings and actions all have a bearing on the plot and the conflict. In the same way, students should feel that their input is valuable and changes the outcome of the lesson or unit of work, *and* the larger community impacted by their learning, Muir argues. In the example of the Rwandan refugee project, when students felt that the activities in class helped them create guidebooks, videos and resources for the refugees to better orientate themselves to life in the US, they became more interested in the learning.
