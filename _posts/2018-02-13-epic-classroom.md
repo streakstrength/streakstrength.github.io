@@ -1,6 +1,7 @@
 ---
 layout: post
 title: "The Epic Classroom: Book Review"
+archive: "Epic Classroom"
 date: 2018-02-13
 tags: books
 ---
