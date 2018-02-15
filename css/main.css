@@ -39,11 +39,11 @@ a {
 }
 a:hover {
     background-color: #00a879;
-    color: #f5f5f5;
+    color: #ffffff;
 }
 ::-moz-selection {  /*Code for Firefox */
     background-color: #00a879;
-    color: #f5f5f5;
+    color: #ffffff;
 }
 ::selection {
     color: #f5f5f5;
