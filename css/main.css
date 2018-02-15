@@ -11,6 +11,12 @@ body {
     padding-left: 24px;
   }
 }
+.navbar {
+  overflow: hidden;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
 nav ul, footer ul {
     font-family: 'Fira Sans', sans-serif;
     padding: 0px;
@@ -20,6 +26,10 @@ nav ul, footer ul {
 nav ul li, footer ul li {
     display: inline;
     margin-right: 20px;
+}
+.container {
+  padding: 16px;
+  margin-top: 30px;
 }
 a {
     text-decoration: none;
