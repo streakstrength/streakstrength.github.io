@@ -1,11 +1,9 @@
 {% capture imagePath %}{{ page.path | slugify | remove: "posts-" | remove: "-md" }}/{{ include.name }}{% endcapture %}
 {% if include.caption %}
-    <div>
-        <figure>
-            <img src="/assets/posts/{{ imagePath }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
-            <figcaption>{{ include.caption }}</figcaption>
-        </figure>
-    </div>
+    <figure>
+        <img src="/assets/posts/{{ imagePath }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
+        <figcaption>{{ include.caption }}</figcaption>
+    </figure>
 {% else %}
     <img src="/assets/posts/{{ imagePath }}" {% if include.alt %} alt="{{ include.alt }}" {% endif %} {% if include.width %} width="{{ include.width }}" {% endif %}/>
 {% endif %}
