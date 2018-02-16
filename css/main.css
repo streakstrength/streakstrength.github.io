@@ -1,5 +1,5 @@
 /* Settings for responsive resizing */
-body {
+/* body {
   margin: 0;
   max-width: 700px;
   padding: 12px;
@@ -12,7 +12,7 @@ body {
     padding-right: 0px;
     padding-left: 0px;
   }
-}
+} */
 
 /* Top banner */
 #banner {
