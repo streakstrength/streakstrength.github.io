@@ -23,12 +23,13 @@ body {
 }
 
 /* Navbar */
-.navbar {
-	overflow: hidden;
-	/* position: fixed; */
-	background-color: #00a879;
-	/* top: 0; */
+.navbar-fixed {
+	top: 0;
+	z-index: 100;
+	position: fixed;
 	width: 100%;
+	overflow: hidden;
+	background-color: #00a879;
 	text-align: center;
 }
 nav ul, footer ul {
