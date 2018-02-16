@@ -25,9 +25,9 @@ body {
 /* Navbar */
 .navbar {
 	overflow: hidden;
-	position: fixed;
+	/* position: fixed; */
 	background-color: #00a879;
-	top: 0;
+	/* top: 0; */
 	width: 100%;
 	text-align: center;
 }
