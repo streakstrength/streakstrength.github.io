@@ -24,11 +24,14 @@ body {
 
 /* Navbar */
 .navbar-fixed {
-	top: 0;
-	z-index: 100;
-	position: fixed;
+    top: 0;
+    z-index: 100;
+  position: fixed;
+    width: 100%;
+}
+#nav_bar {
 	width: 100%;
-	overflow: hidden;
+	border: 0;
 	background-color: #00a879;
 	text-align: center;
 }
