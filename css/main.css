@@ -23,7 +23,7 @@ body {
 }
 
 /* Navbar */
-#navbar {
+.navbar {
   overflow: hidden;
   position: fixed;
   background-color: #00a879;
