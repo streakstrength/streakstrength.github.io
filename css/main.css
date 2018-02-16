@@ -18,18 +18,18 @@ body {
 #banner {
 	width: 100%;
 	height: 100px;
-    background-color: gray;
+	background-color: gray;
 	overflow: hidden;
 }
 
 /* Navbar */
 .navbar {
-  overflow: hidden;
-  position: fixed;
-  background-color: #00a879;
-  top: 0;
-  width: 100%;
-  text-align: center;
+	overflow: hidden;
+	position: fixed;
+	background-color: #00a879;
+	top: 0;
+	width: 100%;
+	text-align: center;
 }
 nav ul, footer ul {
     font-family: 'Fira Sans', sans-serif;
