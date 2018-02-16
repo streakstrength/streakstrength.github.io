@@ -12,7 +12,7 @@ William Evans and Jonathan Savage agree, arguing that teachers who harness their
 {% include image.html name="evans-savage-voice.jpg" caption="Using Your Voice Effectively in the Classroom" %}
 
 ## tl;dr:
-* **Readability**: &#9733;&#9733;&#9733;&#9733;&#9734; It's viable to finish this book off in one sitting (~1h), but this workbook is really meant to be *worked through*. The serious reader might spend 30-45 minutes a week on each chapter, doing the vocal exercises and reflection questions as he/she goes along. 
+* **Readability**: &#9733;&#9733;&#9733;&#9734;&#9734; It's viable to finish this book off in one sitting (~1h), but this workbook is really meant to be *worked through*. The serious reader might spend 30-45 minutes a week on each chapter, doing the vocal exercises and reflection questions as he/she goes along. 
 * **Usefulness for teaching**: &#9733;&#9733;&#9733;&#9733;&#9733; Because it's the only resource I've seen which explicitly links pedagogy with the teacher's voice, I would heartily recommend it to any teacher.
 * **Applicability to SG**: &#9733;&#9733;&#9733;&#9733;&#9734; The book is applicable to all contexts of teaching which involve the voice. However, pragmatic teachers may find it "commonsense" - though I argue it's still worthwhile to dwell on "commonsensical" topics once in a while, because they are so easily overlooked!
 
