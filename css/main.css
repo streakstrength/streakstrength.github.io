@@ -25,6 +25,8 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
     color: #ffffff;
+    dislay: inline-block;
+    list-style-type: none;
 }
 nav ul li, footer ul li {
     padding: 0px;
