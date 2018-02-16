@@ -20,6 +20,14 @@
 	height: 100px;
 	background-color: gray;
 	overflow: hidden;
+    position: absolute;
+    width: 100%;
+}
+#banner img {
+    position: absolute;
+    top: 10em;
+    right: 20%;
+    width: 100px;
 }
 
 /* Navbar */
