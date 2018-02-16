@@ -20,11 +20,12 @@
 	background-color: gray;
 	overflow: hidden;
     width: 100%;
+    background-position: 0px 0px;
 }
 #banner img {
     position: absolute;
-    top: 10em;
-    right: 20%;
+    top: 50px;
+    right: 50%;
     width: 30%;
 }
 
