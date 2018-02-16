@@ -15,7 +15,7 @@ body {
 .navbar {
   overflow: hidden;
   position: fixed;
-  background-color: #ffffff;
+  background-color: #00a879;
   top: 0;
   width: 100%;
 }
@@ -24,6 +24,7 @@ nav ul, footer ul {
     padding: 0px;
     list-style: none;
     font-weight: bold;
+    color: #ffffff;
 }
 nav ul li, footer ul li {
     padding: 0px;
