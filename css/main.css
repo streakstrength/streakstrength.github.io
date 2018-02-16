@@ -18,6 +18,7 @@ body {
   background-color: #00a879;
   top: 0;
   width: 100%;
+  text-align: center;
 }
 nav ul, footer ul {
     font-family: 'Fira Sans', sans-serif;
@@ -25,8 +26,6 @@ nav ul, footer ul {
     list-style: none;
     font-weight: bold;
     color: #ffffff;
-    dislay: inline-block;
-    list-style-type: none;
 }
 nav ul li, footer ul li {
     padding: 0px;
