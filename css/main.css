@@ -20,7 +20,6 @@
 	height: 100px;
 	background-color: gray;
 	overflow: hidden;
-    position: absolute;
     width: 100%;
 }
 #banner img {
@@ -28,7 +27,6 @@
     top: 10em;
     right: 20%;
     width: 30%;
-    height: auto;
     max-width: 80px;
 }
 
