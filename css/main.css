@@ -24,17 +24,19 @@ body {
 
 /* Navbar */
 .navbar-fixed {
-    top: 0;
-    z-index: 100;
-  position: fixed;
-    width: 100%;
+	top: 0;
+	z-index: 100;
+	position: fixed;
+	width: 100%;
 }
 #nav_bar {
 	border: 0;
-	background-color: #202020;
+	background-color: #ffffff;
 	border-radius: 0px;
 	margin-bottom: 0;
-    height: 30px;
+    	height: 60px;
+	width: 100%;
+	border-top: 3px solid ##00a879;
 }
 nav ul, footer ul {
     font-family: 'Fira Sans', sans-serif;
