@@ -70,6 +70,11 @@ nav ul li, footer ul li {
 .blurb a {
 	color: #ffffff;
 }
+
+.blurb a:hover {
+	background: #ffffff;
+	color: #00a879;
+}
 /* Footer */
 footer {
     border-top: 1px solid #d5d5d5;
