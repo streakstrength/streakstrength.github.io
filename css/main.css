@@ -9,9 +9,8 @@ body {
 @media only screen and (min-width: 481px) {
   body {
     padding-top: 0px;
-    padding-right: 50px;
-    padding-left: 50px;
-    float: right;
+    padding-right: 50em;
+    padding-left: 50em;
   }
 } 
 
@@ -23,12 +22,14 @@ body {
     width: 100%;
     background-position: 0px 0px;
     margin: 0px auto;
+    display: inline-block;
 }
 #banner img {
     position: relative;
     margin: 25px auto;
     width: 50px;
     height: 50px;
+    display: inline-block;
 }
 
 /* Navbar */
@@ -70,6 +71,7 @@ footer {
 .container {
     padding: 16px;
     position: relative;
+    display: inline-block;
 }
 
 /* Font settings */
