@@ -22,12 +22,12 @@ title: Sarah Tan Ruiqi
 			</a>
 		</h2>
 		<p class="meta">
-			{{ post.date | date_to_string }} 
+			{{ post.date | date_to_string }} |
 			{% assign words = post.content | number_of_words %}
 				{% if words < 360 %}
-					1 min
+					1 min read
 				{% else %}
-					{{ words | divided_by:180 }} mins
+					{{ words | divided_by:180 }} min read
 					{% endif %}
 		</p>
 		</div>
