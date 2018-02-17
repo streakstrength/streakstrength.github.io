@@ -66,6 +66,10 @@ nav ul li, footer ul li {
 	color: #ffffff;
 	text-align: right;
 }
+
+.blurb a {
+	color: #ffffff;
+}
 /* Footer */
 footer {
     border-top: 1px solid #d5d5d5;
