@@ -12,6 +12,7 @@ body {
     padding-right: 50px;
     padding-left: 50px;
     float: left;
+    display: inline-block;
   }
 } 
 
@@ -23,7 +24,6 @@ body {
     width: 100%;
     background-position: 0px 0px;
     margin: 0px auto;
-    display: inline-block;
 }
 #banner img {
     position: relative;
