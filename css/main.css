@@ -23,6 +23,7 @@ body {
     width: 100%;
     background-position: 0px 0px;
     margin: 0px auto;
+    display: inline-block;
 }
 #banner img {
     position: relative;
@@ -69,7 +70,7 @@ footer {
 /* Main content */
 .container {
     padding: 16px;
-    position: relative;
+    margin: 0 auto;
 }
 
 /* Font settings */
