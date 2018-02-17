@@ -76,8 +76,7 @@ a {
     color: #999;
 }
 a:hover {
-    background-color: #00a879;
-    color: #ffffff;
+    color: #00a879;
 }
 ::-moz-selection {  /*Code for Firefox */
     background-color: #00a879;
@@ -88,20 +87,20 @@ a:hover {
     background: #00a879;
 }
 h1 {
-    font-size: 3em;
-    font-family: 'Fira Sans', sans-serif;
-}
-h2 {
     font-size: 2em;
     font-family: 'Fira Sans', sans-serif;
 }
-h3 {
+h2 {
     font-size: 1.5em;
+    font-family: 'Fira Sans', sans-serif;
+}
+h3 {
+    font-size: 1.3em;
     font-family: 'Fira Sans', sans-serif;
     font-style: italic;
 }
 p {
-    font-size: 1.2em;
+    font-size: 1.2m;
     line-height: 1.2em;
     font-family: 'Roboto', sans-serif;
     color: #333;
@@ -115,7 +114,7 @@ li {
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1.5em;
+    font-size: 1.2em;
 }
 
 ul.posts li {

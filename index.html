@@ -5,10 +5,24 @@ title: Sarah Tan Ruiqi
 <div class="blurb">
 	<h1>Hi there, I'm Sarah!</h1>
 	<p>I'm a <em>Geography</em> and <em>English</em> teacher. <a href="/about">Read more about me...</a></p>
-
-	<ul class="posts">
-		{% for post in site.posts %}
-		<li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+</div>
+<div class="post-cache">
+	{% for post in site.posts %}
+	<div class="post-header">
+		<h2>
+			<a class="post-link" href={{ post.url }}>
+				{{ post.title }}
+			</a>
+		</h2>
+		<p class="meta">
+			{{ post.date | date_to_string }}
+		</p>
+		</div>
+		<div class ="excerpt">
+			<p>
+				{{ post.content | strip_html | truncate: "250" }}
+			</p>
+		</div>
+			
 		{% endfor %}
-	</ul>
 </div><!-- /.blurb -->
