@@ -18,6 +18,7 @@ The Hack Learning Series of books plays on [the "life-hacking" phenomenon](https
 ## 3 tips from the book:
 ### 1. Focus on the reader
 > "Teachers must... patiently guide students to shape [their] self-images as readers."
+
 Reluctant readers often don't know where they can find books that will appeal to them. Dawson recommends that reading programmes must be paired with book-matching programmes, where teachers work together with school and public libraries to regularly create and update book displays, and students are taught to create their own To-Read lists, scan blurbs, use online resources such as Goodreads, and self-assess their books for their reading difficulty. 
 
 One great idea is to create speed-dates with books, a modified gallery walk where students cycle through desks with ~3-5 books on them, rate their first impressions of the book using post-its, and then come together with the rest of the class to discuss which books the class liked best, and why. At the end of the activity, students update their To-Read lists with at least one book they've encountered during the speed-dating activity. 
@@ -29,6 +30,7 @@ For non-fiction, Dawson recommends starting with articles rather than full-lengt
 
 ### 3. Implement assessments that build community
 > "Students feel that an activity has inherent value when they communicate [their] experiences of a text to a real audience."
+
 More than providing knowledge about a student's reading ability and knowledge, assessments are a chance to deepen students' reading experiences and create a classroom culture of reading. However, the "book talk" has a tendency to intimidate students who fear both reading and public speaking. To ease students into talking about the books that they're reading, Dawson gets students to do a "three-sentence" book talk, answering the following three questions: 
 * What's the gist of the plot / topic?
 * Why did you like / dislike the book?
