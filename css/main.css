@@ -95,26 +95,26 @@ h2 {
     font-family: 'Fira Sans', sans-serif;
 }
 h3 {
-    font-size: 1.2em;
+    font-size: 1.3em;
     font-family: 'Fira Sans', sans-serif;
     font-style: italic;
 }
 p {
-    font-size: 1em;
-    line-height: 1em;
+    font-size: 1.2m;
+    line-height: 1.2em;
     font-family: 'Roboto', sans-serif;
     color: #333;
 }
 li {
-    font-size: 1em;
-    line-height: 1em;
+    font-size: 1.2em;
+    line-height: 1.2em;
     font-family: 'Roboto', sans-serif;
     color: #333;
 }
 
 ul.posts { 
     margin: 20px auto 40px; 
-    font-size: 1em;
+    font-size: 1.2em;
 }
 
 ul.posts li {
