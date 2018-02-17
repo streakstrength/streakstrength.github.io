@@ -22,9 +22,8 @@ title: Sarah Tan Ruiqi
 			</a>
 		</h2>
 		<p class="meta">
-			{{ post.date | date_to_string }}
+			{{ post.date | date_to_string }} | {% include reading_time.html content=post.content %}
 		</p>
-		{% include read_time.html content=post.content%}
 		</div>
 		<div class ="excerpt">
 			<p>
