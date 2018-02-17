@@ -8,22 +8,18 @@ body {
 
 @media only screen and (min-width: 481px) {
   body {
-    padding-top: 0px;
-    padding-right: 50px;
-    padding-left: 50px;
-    float: left;
-    display: inline-block;
+    margin: 0px auto 0px auto;
+    max-width: 800px;
   }
 } 
 
 /* Top banner */
 #banner {
 	height: 100px;
-	background-color: gray;
+	background-color: #ffffff;
 	overflow: hidden;
-    width: 100%;
+    width: auto;
     background-position: 0px 0px;
-    margin: 0px auto;
 }
 #banner img {
     position: relative;
@@ -37,7 +33,7 @@ body {
 	top: 0;
 	z-index: 100;
 	position: fixed;
-	width: 100%;
+	width: auto;
 }
 #nav_bar {
 	border: 0;
